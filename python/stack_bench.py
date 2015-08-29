@@ -3,6 +3,7 @@
 Created on Mon Aug 17 23:50:55 2015
 
 @author: Justfor <justformaus@gmx.de>
+@modify: littlekid
 
 Purpose: This script tries to implement a technique called stacking/stacked generalization.
 I made this a runnable script available because I found that there isn't really any
